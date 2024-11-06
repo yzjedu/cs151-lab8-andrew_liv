@@ -1,4 +1,4 @@
-ENCRYPTED:37779
+ENCRYPTED:
 # Reflection Document
 
 * Drive Full Name  : Andrew Leimbach
