@@ -3,7 +3,6 @@
 * Drive Full Name  :  Liv Oakes
 * Partner Full Name: Andrew Leimbach
 * Student ID: 1902495
-
 - Objective:
    - What were you supposed to learn/accomplish?
      - how to use loops, functions, lists, and ramdom numbers all together in a program
